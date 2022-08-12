@@ -14,7 +14,7 @@ export default function App() {
         }}>
         <WebView
           source={{ uri: "https://vscode.dev/" }}
-          style={{ marginTop: 0, margin: 1, borderRadius: 10 }}
+          style={{ margin: 1, borderRadius: 15 }}
         />
       </SafeAreaView>
     </>
